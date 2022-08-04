@@ -71,7 +71,7 @@ peras = 30
 
 # COMPLETAR - INICIO
 if bananas < naranjas / 2:
-    if naranjas / 2 <= manzanas * 2:
+    if naranjas / 2 < manzanas * 2:
         if manzanas * 2 <= peras ** 2:
             comparar_frutas = True
 # COMPLETAR - FIN
