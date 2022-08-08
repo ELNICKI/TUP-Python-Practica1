@@ -48,8 +48,7 @@ superficie_de_campo_02 = 851212
 superficie_de_campo_03 = 8512
 
 # COMPLETAR - INICIO
-if superficie_de_campo_01 < superficie_de_campo_02:
-    if superficie_de_campo_02 > superficie_de_campo_03:
+if superficie_de_campo_01 < superficie_de_campo_02 > superficie_de_campo_03:
         comparar_superficie = True
 # COMPLETAR - FIN
 
